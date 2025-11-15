@@ -1,0 +1,13 @@
+{
+  "name": "Awampanggangwe",
+  "short_name": "Awamp",
+  "start_url": "./awampanggangwe.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a74da",
+  "description": "Aplikasi web Awampanggangwe",
+  "icons": [
+    {"src": "icons/icon-192.png","sizes": "192x192","type": "image/png"},
+    {"src": "icons/icon-512.png","sizes": "512x512","type": "image/png"}
+  ]
+}
